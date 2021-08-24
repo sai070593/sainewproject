@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is AE85-E967
+
+ Directory of C:\Projects
+
+24/08/2021  06:23 PM    <DIR>          .
+24/08/2021  06:23 PM    <DIR>          ..
+24/08/2021  06:23 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   3,753,598,976 bytes free
